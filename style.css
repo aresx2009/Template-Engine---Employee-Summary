@@ -1,1 +1,25 @@
 /* 33 */
+.team-heading{
+    background-color: rgb(216, 38, 38);
+    font-size: 26px;
+}
+.card-header{
+    margin: 2px;
+    background-color: sandybrown;
+    border-radius: 20%;
+}
+.card-body{
+    margin: 2px;
+    background-color: whitesmoke;
+    border-radius: 20%;
+}
+.employee-card{
+    margin: 2px;
+    min-width: 200px;
+    min-height: auto;
+}
+@media screen and (min-width: 600px) {
+    body {
+      background-color: rgb(165, 216, 250);
+    }
+  }
