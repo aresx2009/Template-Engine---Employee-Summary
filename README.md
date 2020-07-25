@@ -5,7 +5,7 @@
         <img src= "https://img.shields.io/badge/contributor-Bro!-red">
     </a>
   </p>
-  App link: https://aresx2009.github.io/Template-Engine---Employee-Summary/<br>
+  App link: https://youtu.be/7KIC27WW_bI<br>
   Description<br>
   Enter employee information and create team profile
 
@@ -28,7 +28,7 @@
   npm run test
 
   ## **Usage**<br>
-  Question start with manager's information
+  N/A
 
   ## **Contributing**<br>
   N/A
